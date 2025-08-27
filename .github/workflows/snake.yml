@@ -6,23 +6,23 @@ on:
   workflow_dispatch: # permite rodar manualmente
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake 🐍
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
         with:
           github_user_name: im-JessicaV
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Upload to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
