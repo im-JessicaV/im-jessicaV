@@ -14,7 +14,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-JessicaV&show_icons=true&theme=radical)
+<div align="center">
+
+![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-JessicaV&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-JessicaV&layout=compact&theme=radical)
+
+</div>
 
 ---
 
@@ -27,7 +32,7 @@
 - 🎥 [Twitch](https://twitch.tv/imJesca)  
 - 📸 [Instagram](https://instagram.com/im_jesca_)  
 
+
 ---
 
 ✨ Obrigada por visitar meu perfil! Bora codar, jogar e se divertir juntos 🚀
-
