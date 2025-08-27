@@ -26,6 +26,7 @@
 ## 🐍 A cobrinha dos commits
 ![snake gif](https://github.com/im-JessicaV/im-JessicaV/blob/output/snake.svg)
 
+
 ---
 
 ## 🌐 Onde me encontrar
