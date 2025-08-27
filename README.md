@@ -24,7 +24,11 @@
 ---
 
 ## 🐍 A cobrinha dos commits
-![snake gif](https://github.com/im-JessicaV/im-JessicaV/blob/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/im-jessicav/im-jessicav/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/im-jessicav/im-jessicav/output/snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/im-jessicav/im-jessicav/output/snake.svg" />
+</picture>
 
 
 ---
